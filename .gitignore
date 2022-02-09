@@ -1,0 +1,9 @@
+/venv/
+/build/
+/dist/
+.idea/
+*.spec
+__pycache__/
+*.bak
+*.png
+
