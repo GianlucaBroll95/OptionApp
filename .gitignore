@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 *.DS_store
+=======
+/venv/
+/build/
+/dist/
+.idea/
+*.spec
+__pycache__/
+*.bak
+*.png
+>>>>>>> 1f30e61278bab0323cf30a81443af6aeb911d81f
 
